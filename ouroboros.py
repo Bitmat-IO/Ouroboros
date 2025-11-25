@@ -153,4 +153,4 @@ if __name__ == "__main__":
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(formatted)
         
-        print(f"✅ Ouroboros: '{filepath}' foi indentado com sucesso.")
+        print(f"Ouroboros: '{filepath}' foi indentado com sucesso.")
